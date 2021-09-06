@@ -1,2 +1,6 @@
-# DIO-DESAFIO-GITHUB
-desafio de projeto sobre GIT/GITHUB
+# desafio do projeto sobre git/github da dio
+  repositorio criado para o desafio do projeto 
+  
+  links uteis
+  [sintaxe basica markadown]
+
